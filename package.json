@@ -1,0 +1,22 @@
+{
+  "name": "basic",
+  "version": "1.0.0",
+  "description": "Learning Node Js",
+  "main": "app.js",
+  "scripts": {
+    "dev": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/ThiraTheNerd/Node-Basic.git"
+  },
+  "author": "ThiraTheNerd",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ThiraTheNerd/Node-Basic/issues"
+  },
+  "homepage": "https://github.com/ThiraTheNerd/Node-Basic#readme",
+  "dependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
